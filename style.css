@@ -1,0 +1,15 @@
+.flex-page {
+    display: flex;
+    gap: 10px;
+    
+}
+.Lorem {
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.grid-page {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
